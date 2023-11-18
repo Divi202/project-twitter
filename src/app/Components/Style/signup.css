@@ -1,0 +1,41 @@
+/* .signup {
+  color: red;
+} */
+
+.main {
+  display: flex;
+}
+.signup-logo {
+  width: 828px;
+  height: 660px;
+  background-color: rgb(223, 64, 207);
+}
+.signup-box {
+  width: 828px;
+  height: 660px;
+  background-color: rgb(109, 186, 231);
+}
+.text {
+  display: block;
+}
+.main-heading {
+  font-family: "Franklin Gothic Medium";
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+}
+.join-now {
+  font-family: "Franklin Gothic Medium";
+  text-align: left;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.signup-other {
+  display: block;
+}
+
+/* footer  */
+.footer {
+  height: 61px;
+  background-color: blueviolet;
+}
